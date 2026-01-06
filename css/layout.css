@@ -1,0 +1,35 @@
+.grid_1_1 {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 2rem;
+  align-items: center;
+}
+
+.grid_1_1 img {
+  width: 100%;
+  display: block;
+  margin: 1rem;
+}
+
+.tekster {
+  max-width: 600px;
+  margin: 2rem;
+}
+
+.hero {
+  padding: 3rem;
+  margin: 1rem;
+}
+
+h1 {
+  text-align: center;
+  margin-bottom: 2rem;
+}
+
+/*portfoliooversigt*/
+
+.portfolio_grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 15px;
+}
