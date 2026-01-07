@@ -1,3 +1,48 @@
+header {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 1rem;
+  background-color: #b4d3f3;
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+  align-items: flex-start;
+}
+
+.logo {
+  display: flex;
+  align-items: center;
+}
+
+.logo img {
+  height: 40px;
+  width: auto;
+  max-width: none;
+  display: block;
+}
+
+.menu {
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+}
+
+.menu a {
+  font-weight: 600;
+  color: var(--farve-primær);
+}
+
+.billeder {
+  padding-right: 0;
+}
+
+/* hero / svg */
+
+.hero {
+  padding: 1.5rem 1rem;
+}
+
 .forside-svg {
   max-width: 900px;
   margin: 2rem auto 0 auto;
@@ -11,50 +56,36 @@
   border: 2px solid #000;
   background: #fff;
 }
-.logo {
-  display: flex;
-  align-items: center;
-}
 
-.logo img {
-  height: 40px;
-  width: auto;
-  max-width: none;
-  display: block;
-}
+/* grid generelt */
 
 .grid_1_1 {
   display: grid;
-  grid-template-columns: repeat(2, 1fr);
-  gap: 2rem;
+  grid-template-columns: 1fr;
+  gap: 1.25rem;
   align-items: center;
 }
 
 .grid_1_1 img {
   width: 100%;
   display: block;
-  margin: 1rem;
+  margin: 0;
 }
 
 .tekster {
   max-width: 600px;
-  margin: 2rem;
+  margin: 0;
 }
 
-.hero {
-  padding: 3rem;
-}
-
-h1 {
-  text-align: center;
-  margin-bottom: 2rem;
-}
+/* portfolio grid */
 
 .portfolio_grid {
   display: grid;
-  grid-template-columns: 1fr 1fr;
-  gap: 15px;
+  grid-template-columns: 1fr;
+  gap: 1rem;
 }
+
+/* læs mere */
 
 .laesmere-boks {
   margin-top: 1rem;
@@ -67,6 +98,7 @@ h1 {
   cursor: pointer;
   font-weight: 600;
   text-decoration: underline;
+  color: var(--farve-primær);
 }
 
 .laesmere-knap:hover {
@@ -77,15 +109,11 @@ h1 {
   margin-top: 0.5rem;
 }
 
-.portfolio_grid {
-  display: grid;
-  grid-template-columns: repeat(2, 1fr);
-  gap: 1.5rem;
-}
+/* tema-kort */
 
 .tema-kort {
   position: relative;
-  height: 240px;
+  height: 220px;
   display: block;
   overflow: hidden;
   border: 2px solid #000;
@@ -108,16 +136,17 @@ h1 {
 
 .overlay h2 {
   margin: 0;
-  font-size: 2rem;
+  font-size: 1.7rem;
   color: #fff;
 }
 
 .overlay p {
   margin-top: 0.25rem;
-  color: #ddd;
+  color: #e6e6e6;
   font-size: 1rem;
 }
-/* FORSIDE */
+
+/* forside */
 
 .forside {
   padding-top: 2rem;
@@ -125,19 +154,17 @@ h1 {
 
 .intro {
   max-width: 70ch;
-  margin: 0 auto 3rem auto;
+  margin: 0 auto 2rem auto;
   text-align: center;
 }
 
-/* Overblik nederst */
 .forside-overblik {
   display: grid;
-  grid-template-columns: repeat(4, 1fr);
-  gap: 1.5rem;
-  margin-top: 3rem;
+  grid-template-columns: 1fr;
+  gap: 1rem;
+  margin-top: 2rem;
 }
 
-/* Tema-bokse */
 .forside-tema {
   background: #fff;
   border: 2px solid #000;
@@ -147,7 +174,7 @@ h1 {
 
 .forside-tema h2 {
   margin-bottom: 0.5rem;
-  font-size: 1.4rem;
+  font-size: 1.3rem;
 }
 
 .forside-tema p {
@@ -161,7 +188,56 @@ h1 {
   text-decoration: underline;
 }
 
+/* om mig */
+
 .om-mig {
   text-align: center;
   margin-top: 2.5rem;
+}
+
+/* desktop */
+
+@media (min-width: 768px) {
+  header {
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+  }
+
+  .menu {
+    flex-direction: row;
+    gap: 2rem;
+  }
+
+  .grid_1_1 {
+    grid-template-columns: repeat(2, 1fr);
+    gap: 2rem;
+  }
+
+  .tekster {
+    margin: 2rem;
+  }
+
+  .hero {
+    padding: 3rem;
+  }
+
+  .portfolio_grid {
+    grid-template-columns: repeat(2, 1fr);
+    gap: 1.5rem;
+  }
+
+  .tema-kort {
+    height: 240px;
+  }
+
+  .forside-overblik {
+    grid-template-columns: repeat(4, 1fr);
+    gap: 1.5rem;
+    margin-top: 3rem;
+  }
+
+  .billeder {
+    padding-right: 2rem;
+  }
 }

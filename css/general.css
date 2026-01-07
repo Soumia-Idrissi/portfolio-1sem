@@ -3,7 +3,7 @@
   --farve-sektion: #eef2f6;
 
   --farve-primær: #1f2a44;
-  --farve-tekst: #5e6a7a;
+  --farve-tekst: #2f3a4a;
 
   --farve-accent: #6f8faf;
 }
@@ -25,6 +25,7 @@ body {
   color: var(--farve-tekst);
   line-height: 1.5;
   font-size: 16px;
+  overflow-x: hidden;
 }
 
 main {
@@ -35,8 +36,8 @@ main {
 
 section {
   background-color: var(--farve-sektion);
-  padding: 3rem 1rem;
-  border-bottom: 2px solid #6f8faf;
+  padding: 2rem 1rem;
+  border-bottom: 2px solid var(--farve-accent);
 }
 
 h1,
@@ -46,55 +47,43 @@ h3 {
 }
 
 h1 {
-  font-size: 2.4rem;
+  font-size: 2rem;
   margin-bottom: 1rem;
+  text-align: center;
 }
 
 h2 {
-  font-size: 1.5rem;
+  font-size: 1.4rem;
   margin-bottom: 0.75rem;
 }
 
 h3 {
-  font-size: 1.2rem;
+  font-size: 1.1rem;
   margin-bottom: 0.5rem;
 }
 
 p {
   margin-bottom: 1rem;
-}
-
-/* header */
-
-header {
-  max-width: 1200px;
-  margin: 0 auto;
-  padding: 1rem;
-  background-color: #b4d3f3;
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-}
-
-.menu {
-  list-style: none;
-  display: flex;
-  gap: 2rem;
+  color: var(--farve-tekst);
 }
 
 a {
-  color: var(--farve-accent);
+  color: var(--farve-tekst);
   text-decoration: none;
 }
 
 a:hover {
   text-decoration: underline;
 }
-
-.menu a {
-  font-weight: 500;
+footer {
+  background-color: var(--farve-sektion);
+  padding: 1.5rem 1rem;
+  text-align: center;
+  border-top: 2px solid var(--farve-accent);
 }
 
-.billeder {
-  padding-right: 2rem;
+.footer p {
+  font-size: 0.9rem;
+  color: var(--farve-tekst);
+  margin-bottom: 0.3rem;
 }
