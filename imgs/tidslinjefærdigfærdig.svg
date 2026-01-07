@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Lag_1" data-name="Lag 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 6167.89 2269.32">
+  <defs>
+    <style>
+      .cls-1 {
+        letter-spacing: -.04em;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5, .cls-6, .cls-7, .cls-8, .cls-9, .cls-10, .cls-11, .cls-12, .cls-13, .cls-14, .cls-15 {
+        font-family: ArialMT, Arial;
+        isolation: isolate;
+      }
+
+      .cls-1, .cls-4, .cls-5, .cls-11 {
+        font-size: 137.99px;
+      }
+
+      .cls-2, .cls-7, .cls-8, .cls-9, .cls-10, .cls-12, .cls-13 {
+        font-size: 24px;
+      }
+
+      .cls-3, .cls-14 {
+        font-size: 36px;
+      }
+
+      .cls-4 {
+        letter-spacing: 0em;
+      }
+
+      .cls-5 {
+        letter-spacing: .02em;
+      }
+
+      .cls-6, .cls-15 {
+        font-size: 48px;
+      }
+
+      .cls-16 {
+        fill: url(#Ikke-navngivet_forløb);
+      }
+
+      .cls-16, .cls-17 {
+        stroke: #1f2a44;
+        stroke-miterlimit: 10;
+        stroke-width: 5px;
+      }
+
+      .cls-7 {
+        letter-spacing: -.01em;
+      }
+
+      .cls-8 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-9 {
+        letter-spacing: -.05em;
+      }
+
+      .cls-10 {
+        letter-spacing: .01em;
+      }
+
+      .cls-12 {
+        letter-spacing: .02em;
+      }
+
+      .cls-13 {
+        letter-spacing: .03em;
+      }
+
+      .cls-17 {
+        fill: none;
+      }
+
+      .cls-14 {
+        letter-spacing: -.06em;
+      }
+
+      .cls-15 {
+        letter-spacing: -.09em;
+      }
+    </style>
+    <linearGradient id="Ikke-navngivet_forløb" data-name="Ikke-navngivet forløb" x1="1511.52" y1="1090.51" x2="4216.38" y2="1090.51" gradientTransform="translate(0 2270) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset=".23" stop-color="#cce0f4"/>
+      <stop offset=".29" stop-color="#c8dff3"/>
+      <stop offset=".32" stop-color="#bddaf1"/>
+      <stop offset=".38" stop-color="#a1cfec"/>
+      <stop offset=".45" stop-color="#73bde5"/>
+      <stop offset=".54" stop-color="#35a5da"/>
+      <stop offset=".57" stop-color="#1e9cd7"/>
+      <stop offset=".69" stop-color="#037ac1"/>
+      <stop offset=".82" stop-color="#005b97"/>
+      <stop offset=".87" stop-color="#0075be"/>
+    </linearGradient>
+  </defs>
+  <rect class="cls-16" x="1511.52" y="579.49" width="2704.86" height="1200"/>
+  <text class="cls-1" transform="translate(2247.66 1029.36)"><tspan x="0" y="0">P</tspan></text>
+  <text class="cls-11" transform="translate(2330.2 1027.84)"><tspan x="0" y="0">o</tspan></text>
+  <text class="cls-5" transform="translate(2405.96 1027.84)"><tspan x="0" y="0">r</tspan></text>
+  <text class="cls-11" transform="translate(2454.4 1027.84)"><tspan x="0" y="0">t</tspan></text>
+  <text class="cls-4" transform="translate(2500.07 1027.84)"><tspan x="0" y="0">f</tspan></text>
+  <text class="cls-11" transform="translate(2543.13 1027.84) scale(1.06 1)"><tspan x="0" y="0">olio 1. semester</tspan></text>
+  <text class="cls-14" transform="translate(2687.58 1105.07)"><tspan x="0" y="0">A</tspan></text>
+  <text class="cls-3" transform="translate(2709.36 1105.07)"><tspan x="0" y="0">f </tspan></text>
+  <text class="cls-3" transform="translate(2727.5 1105.07)"><tspan x="0" y="0">S</tspan></text>
+  <text class="cls-3" transform="translate(2745.47 1105.07)"><tspan x="0" y="0">oumia El Id</tspan></text>
+  <text class="cls-3" transform="translate(2911.25 1105.07)"><tspan x="0" y="0">r</tspan></text>
+  <text class="cls-3" transform="translate(2923.16 1105.07)"><tspan x="0" y="0">issi</tspan></text>
+  <line class="cls-17" x1="1715.36" y1="1310.49" x2="1715.36" y2="1595.49"/>
+  <line class="cls-17" x1="2033.98" y1="1407.4" x2="2033.98" y2="1492.13"/>
+  <line class="cls-17" x1="2566.55" y1="1404.03" x2="2566.55" y2="1495.5"/>
+  <line class="cls-17" x1="3072.43" y1="1406.58" x2="3072.43" y2="1492.95"/>
+  <line class="cls-17" x1="3637.49" y1="1406.58" x2="3637.49" y2="1492.95"/>
+  <text class="cls-15" transform="translate(3570.81 1383.77)"><tspan x="0" y="0">T</tspan></text>
+  <text class="cls-6" transform="translate(3591.26 1383.77)"><tspan x="0" y="0">ema 5</tspan></text>
+  <text class="cls-15" transform="translate(1963.66 1382.71)"><tspan x="0" y="0">T</tspan></text>
+  <text class="cls-6" transform="translate(1984.11 1382.71)"><tspan x="0" y="0">ema 2</tspan></text>
+  <text class="cls-2" transform="translate(1694.85 1292.26)"><tspan x="0" y="0">I</tspan></text>
+  <text class="cls-2" transform="translate(1700.83 1292.26)"><tspan x="0" y="0">n</tspan></text>
+  <text class="cls-2" transform="translate(1714.05 1292.26)"><tspan x="0" y="0">t</tspan></text>
+  <text class="cls-7" transform="translate(1721.99 1292.26)"><tspan x="0" y="0">r</tspan></text>
+  <text class="cls-2" transform="translate(1729.6 1292.26)"><tspan x="0" y="0">o</tspan></text>
+  <text class="cls-15" transform="translate(3003 1382.71)"><tspan x="0" y="0">T</tspan></text>
+  <text class="cls-6" transform="translate(3023.45 1382.71)"><tspan x="0" y="0">ema 4</tspan></text>
+  <text class="cls-15" transform="translate(2502.48 1383.24)"><tspan x="0" y="0">T</tspan></text>
+  <text class="cls-6" transform="translate(2522.93 1383.24)"><tspan x="0" y="0">ema 3</tspan></text>
+  <text class="cls-2" transform="translate(3939.34 1292.26)"><tspan x="0" y="0">Eksamen</tspan></text>
+  <line class="cls-17" x1="3984.17" y1="1308.73" x2="3984.17" y2="1597.25"/>
+  <line class="cls-17" x1="1715.36" y1="1452.31" x2="3984.17" y2="1452.31"/>
+  <text class="cls-2" transform="translate(1934.08 1540.35)"><tspan x="0" y="0">Grundlæggende </tspan></text>
+  <text class="cls-2" transform="translate(2104.55 1540.35)"><tspan x="0" y="0">w</tspan></text>
+  <text class="cls-2" transform="translate(2121.97 1540.35)"><tspan x="0" y="0">eb</tspan></text>
+  <text class="cls-2" transform="translate(1891.47 1569.15)"><tspan x="0" y="0">HTML, CSS, struktur og l</tspan></text>
+  <text class="cls-2" transform="translate(2128.58 1569.15)"><tspan x="0" y="0">a</tspan></text>
+  <text class="cls-2" transform="translate(2139.96 1569.15)"><tspan x="0" y="0">y</tspan></text>
+  <text class="cls-2" transform="translate(2151.02 1569.15)"><tspan x="0" y="0">ou</tspan></text>
+  <text class="cls-2" transform="translate(2177.42 1569.15)"><tspan x="0" y="0">t</tspan></text>
+  <text class="cls-2" transform="translate(2185.3 1569.15)"><tspan x="0" y="0">.</tspan></text>
+  <text class="cls-2" transform="translate(2471.17 1545.37)"><tspan x="0" y="0">UX og idéudvi</tspan></text>
+  <text class="cls-12" transform="translate(2612.26 1545.37)"><tspan x="0" y="0">k</tspan></text>
+  <text class="cls-2" transform="translate(2623.93 1545.37)"><tspan x="0" y="0">ling</tspan></text>
+  <text class="cls-2" transform="translate(2379.17 1574.17)"><tspan x="0" y="0">R</tspan></text>
+  <text class="cls-2" transform="translate(2392.17 1574.17)"><tspan x="0" y="0">esea</tspan></text>
+  <text class="cls-7" transform="translate(2437.29 1574.17)"><tspan x="0" y="0">r</tspan></text>
+  <text class="cls-2" transform="translate(2444.9 1574.17)"><tspan x="0" y="0">ch, wi</tspan></text>
+  <text class="cls-7" transform="translate(2502.31 1574.17)"><tspan x="0" y="0">r</tspan></text>
+  <text class="cls-2" transform="translate(2509.92 1574.17)"><tspan x="0" y="0">ef</tspan></text>
+  <text class="cls-2" transform="translate(2528.95 1574.17)"><tspan x="0" y="0">r</tspan></text>
+  <text class="cls-2" transform="translate(2536.68 1574.17)"><tspan x="0" y="0">ames og bruge</tspan></text>
+  <text class="cls-13" transform="translate(2686.72 1574.17)"><tspan x="0" y="0">r</tspan></text>
+  <text class="cls-7" transform="translate(2695.29 1574.17)"><tspan x="0" y="0">f</tspan></text>
+  <text class="cls-2" transform="translate(2701.99 1574.17)"><tspan x="0" y="0">o</tspan></text>
+  <text class="cls-2" transform="translate(2715.16 1574.17)"><tspan x="0" y="0">k</tspan></text>
+  <text class="cls-2" transform="translate(2726.51 1574.17)"><tspan x="0" y="0">u</tspan></text>
+  <text class="cls-7" transform="translate(2739.74 1574.17)"><tspan x="0" y="0">s</tspan></text>
+  <text class="cls-2" transform="translate(2748.98 1574.17)"><tspan x="0" y="0">.</tspan></text>
+  <text class="cls-8" transform="translate(2991.13 1540.35)"><tspan x="0" y="0">V</tspan></text>
+  <text class="cls-2" transform="translate(3004.14 1540.35)"><tspan x="0" y="0">isuel kommuni</tspan></text>
+  <text class="cls-12" transform="translate(3151.88 1540.35)"><tspan x="0" y="0">k</tspan></text>
+  <text class="cls-2" transform="translate(3163.57 1540.35)"><tspan x="0" y="0">a</tspan></text>
+  <text class="cls-2" transform="translate(3175.04 1540.35)"><tspan x="0" y="0">tion</tspan></text>
+  <text class="cls-2" transform="translate(2862.14 1569.15)"><tspan x="0" y="0">Udt</tspan></text>
+  <text class="cls-12" transform="translate(2899.15 1569.15)"><tspan x="0" y="0">r</tspan></text>
+  <text class="cls-2" transform="translate(2907.6 1569.15)"><tspan x="0" y="0">y</tspan></text>
+  <text class="cls-10" transform="translate(2918.9 1569.15)"><tspan x="0" y="0">k</tspan></text>
+  <text class="cls-2" transform="translate(2930.5 1569.15)"><tspan x="0" y="0">, impleme</tspan></text>
+  <text class="cls-2" transform="translate(3029.57 1569.15)"><tspan x="0" y="0">n</tspan></text>
+  <text class="cls-2" transform="translate(3042.79 1569.15)"><tspan x="0" y="0">t</tspan></text>
+  <text class="cls-2" transform="translate(3050.59 1569.15)"><tspan x="0" y="0">e</tspan></text>
+  <text class="cls-2" transform="translate(3062.61 1569.15)"><tspan x="0" y="0">r</tspan></text>
+  <text class="cls-2" transform="translate(3070.56 1569.15)"><tspan x="0" y="0">ing og simple i</tspan></text>
+  <text class="cls-2" transform="translate(3216.86 1569.15)"><tspan x="0" y="0">n</tspan></text>
+  <text class="cls-2" transform="translate(3230.08 1569.15)"><tspan x="0" y="0">t</tspan></text>
+  <text class="cls-2" transform="translate(3237.88 1569.15)"><tspan x="0" y="0">e</tspan></text>
+  <text class="cls-2" transform="translate(3249.91 1569.15)"><tspan x="0" y="0">r</tspan></text>
+  <text class="cls-2" transform="translate(3257.63 1569.15)"><tspan x="0" y="0">aktione</tspan></text>
+  <text class="cls-9" transform="translate(3332.54 1569.15)"><tspan x="0" y="0">r</tspan></text>
+  <text class="cls-2" transform="translate(3339.11 1569.15)"><tspan x="0" y="0">.</tspan></text>
+  <text class="cls-2" transform="translate(3520.85 1540.35)"><tspan x="0" y="0">I</tspan></text>
+  <text class="cls-2" transform="translate(3526.83 1540.35)"><tspan x="0" y="0">ndhold og vi</tspan></text>
+  <text class="cls-2" transform="translate(3653.3 1540.35)"><tspan x="0" y="0">r</tspan></text>
+  <text class="cls-2" transform="translate(3661.25 1540.35)"><tspan x="0" y="0">ksomhedssi</tspan></text>
+  <text class="cls-2" transform="translate(3778.7 1540.35)"><tspan x="0" y="0">t</tspan></text>
+  <text class="cls-2" transform="translate(3786.5 1540.35)"><tspan x="0" y="0">e</tspan></text>
+  <text class="cls-2" transform="translate(3448.93 1569.15)"><tspan x="0" y="0">S</tspan></text>
+  <text class="cls-2" transform="translate(3460.7 1569.15)"><tspan x="0" y="0">t</tspan></text>
+  <text class="cls-2" transform="translate(3468.5 1569.15)"><tspan x="0" y="0">o</tspan></text>
+  <text class="cls-12" transform="translate(3481.67 1569.15)"><tspan x="0" y="0">r</tspan></text>
+  <text class="cls-2" transform="translate(3490.12 1569.15)"><tspan x="0" y="0">y</tspan></text>
+  <text class="cls-2" transform="translate(3501.42 1569.15)"><tspan x="0" y="0">t</tspan></text>
+  <text class="cls-2" transform="translate(3509.22 1569.15)"><tspan x="0" y="0">ellin</tspan></text>
+  <text class="cls-8" transform="translate(3551.51 1569.15)"><tspan x="0" y="0">g</tspan></text>
+  <text class="cls-2" transform="translate(3564.57 1569.15)"><tspan x="0" y="0">, sama</tspan></text>
+  <text class="cls-2" transform="translate(3627.28 1569.15)"><tspan x="0" y="0">r</tspan></text>
+  <text class="cls-2" transform="translate(3635.22 1569.15)"><tspan x="0" y="0">bejde og RF</tspan></text>
+  <text class="cls-8" transform="translate(3753.66 1569.15)"><tspan x="0" y="0">X</tspan></text>
+  <text class="cls-2" transform="translate(3766.86 1569.15)"><tspan x="0" y="0">-p</tspan></text>
+  <text class="cls-7" transform="translate(3787.88 1569.15)"><tspan x="0" y="0">r</tspan></text>
+  <text class="cls-2" transform="translate(3795.49 1569.15)"><tspan x="0" y="0">ojek</tspan></text>
+  <text class="cls-2" transform="translate(3837.78 1569.15)"><tspan x="0" y="0">t</tspan></text>
+  <text class="cls-2" transform="translate(3845.58 1569.15)"><tspan x="0" y="0">e</tspan></text>
+  <text class="cls-2" transform="translate(3857.6 1569.15)"><tspan x="0" y="0">t</tspan></text>
+  <text class="cls-2" transform="translate(3865.47 1569.15)"><tspan x="0" y="0">.</tspan></text>
+</svg>

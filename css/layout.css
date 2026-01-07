@@ -1,3 +1,28 @@
+.forside-svg {
+  max-width: 900px;
+  margin: 2rem auto 0 auto;
+  position: relative;
+}
+
+.forside-svg img {
+  width: 100%;
+  height: auto;
+  display: block;
+  border: 2px solid #000;
+  background: #fff;
+}
+.logo {
+  display: flex;
+  align-items: center;
+}
+
+.logo img {
+  height: 40px;
+  width: auto;
+  max-width: none;
+  display: block;
+}
+
 .grid_1_1 {
   display: grid;
   grid-template-columns: repeat(2, 1fr);
@@ -18,7 +43,6 @@
 
 .hero {
   padding: 3rem;
-  margin: 1rem;
 }
 
 h1 {
@@ -26,10 +50,118 @@ h1 {
   margin-bottom: 2rem;
 }
 
-/*portfoliooversigt*/
-
 .portfolio_grid {
   display: grid;
   grid-template-columns: 1fr 1fr;
   gap: 15px;
+}
+
+.laesmere-boks {
+  margin-top: 1rem;
+}
+
+.laesmere-knap {
+  background: none;
+  border: none;
+  padding: 0;
+  cursor: pointer;
+  font-weight: 600;
+  text-decoration: underline;
+}
+
+.laesmere-knap:hover {
+  opacity: 0.8;
+}
+
+.laesmere-indhold {
+  margin-top: 0.5rem;
+}
+
+.portfolio_grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 1.5rem;
+}
+
+.tema-kort {
+  position: relative;
+  height: 240px;
+  display: block;
+  overflow: hidden;
+  border: 2px solid #000;
+}
+
+.tema-kort img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.overlay {
+  position: absolute;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.55);
+  display: grid;
+  place-content: center;
+  text-align: center;
+}
+
+.overlay h2 {
+  margin: 0;
+  font-size: 2rem;
+  color: #fff;
+}
+
+.overlay p {
+  margin-top: 0.25rem;
+  color: #ddd;
+  font-size: 1rem;
+}
+/* FORSIDE */
+
+.forside {
+  padding-top: 2rem;
+}
+
+.intro {
+  max-width: 70ch;
+  margin: 0 auto 3rem auto;
+  text-align: center;
+}
+
+/* Overblik nederst */
+.forside-overblik {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 1.5rem;
+  margin-top: 3rem;
+}
+
+/* Tema-bokse */
+.forside-tema {
+  background: #fff;
+  border: 2px solid #000;
+  padding: 1.25rem;
+  font-size: 0.95rem;
+}
+
+.forside-tema h2 {
+  margin-bottom: 0.5rem;
+  font-size: 1.4rem;
+}
+
+.forside-tema p {
+  margin-bottom: 0.75rem;
+  color: var(--farve-tekst);
+}
+
+.forside-tema a {
+  font-weight: 600;
+  color: var(--farve-primær);
+  text-decoration: underline;
+}
+
+.om-mig {
+  text-align: center;
+  margin-top: 2.5rem;
 }

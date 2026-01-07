@@ -1,3 +1,13 @@
+:root {
+  --farve-baggrund: #f5f8fc;
+  --farve-sektion: #eef2f6;
+
+  --farve-primær: #1f2a44;
+  --farve-tekst: #5e6a7a;
+
+  --farve-accent: #6f8faf;
+}
+
 * {
   margin: 0;
   padding: 0;
@@ -10,19 +20,56 @@ img {
   display: block;
 }
 
+body {
+  background-color: var(--farve-baggrund);
+  color: var(--farve-tekst);
+  line-height: 1.5;
+  font-size: 16px;
+}
+
 main {
   max-width: 1200px;
   margin: 0 auto;
-  padding: 1rem 1rem;
-  background-color: #eef2f6;
+  padding: 1rem;
 }
 
-/*header*/
+section {
+  background-color: var(--farve-sektion);
+  padding: 3rem 1rem;
+  border-bottom: 2px solid #6f8faf;
+}
+
+h1,
+h2,
+h3 {
+  color: var(--farve-primær);
+}
+
+h1 {
+  font-size: 2.4rem;
+  margin-bottom: 1rem;
+}
+
+h2 {
+  font-size: 1.5rem;
+  margin-bottom: 0.75rem;
+}
+
+h3 {
+  font-size: 1.2rem;
+  margin-bottom: 0.5rem;
+}
+
+p {
+  margin-bottom: 1rem;
+}
+
+/* header */
 
 header {
   max-width: 1200px;
   margin: 0 auto;
-  padding: 1rem 1rem;
+  padding: 1rem;
   background-color: #b4d3f3;
   display: flex;
   justify-content: space-between;
@@ -35,6 +82,19 @@ header {
   gap: 2rem;
 }
 
-.menu a {
+a {
+  color: var(--farve-accent);
   text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+.menu a {
+  font-weight: 500;
+}
+
+.billeder {
+  padding-right: 2rem;
 }
